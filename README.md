@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Ricky Realm</title>
+  <title>My Project</title>
   <link rel="stylesheet" href="style.css" />
 
 </head>
@@ -36,12 +36,12 @@
   
   <img src=https://hkfsgnludtapbbtsacwd.supabase.co/storage/v1/object/public/files/Richard%20Bonnet/images/IMG-8497_1752724533725.jpg width="300"/>
   
-  <h2>Some of my favorite things are:</h2>
+  <h2>Here are some links to my work</h2>
 
   <ul>
-    <li>Surfing</li>
-    <li>Painting</li>
-    <li>Writing</li>
+    <li>https://youtu.be/jk3UtIpgv0U?si=jhPiJXH871mGvJ6u</li>
+    <li>https://youtu.be/xAvsPUc6YNo?si=AKbZ4JDZlS84ygk4</li>
+    <li>https://youtu.be/FEIhLGdVYnY?si=1edkE5K3Ry5D0PxZ</li>
   </ul>
   
 </body>
